@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "otra-app-645d0": {
+      "hosting": {
+        "app": [
+          "crud"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "crud-app-645d0"
+  }
+}
